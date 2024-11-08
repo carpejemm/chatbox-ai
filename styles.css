@@ -1,0 +1,26 @@
+/* element selector */
+body {
+    background-color: orange;
+    border: 1px solid black;
+}
+
+p {
+    border: 5px solid red;
+}
+
+/* class selector */
+.world {
+    /* text-shadow: 2px 2px; */
+    text-decoration-line: underline;
+}
+
+/* id selector */
+#welcome {
+    text-decoration-line: line-through;
+}
+
+.inline {
+    border: 5px solid blue;
+    padding: 10px;
+    margin: 5px;
+}
